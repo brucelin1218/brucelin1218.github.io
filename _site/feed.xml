@@ -1,35 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-26T00:28:56-07:00</updated><id>http://localhost:4000/</id><title type="html">Little by Little</title><subtitle>Bruce Lin's Computer Science Learning Notes</subtitle><author><name>Bruce Lin</name></author><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="http://localhost:4000/2017/10/31/man-must-explore.html" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2017-10-31T07:45:13-07:00</published><updated>2017-10-31T07:45:13-07:00</updated><id>http://localhost:4000/2017/10/31/man-must-explore</id><content type="html" xml:base="http://localhost:4000/2017/10/31/man-must-explore.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-29T23:52:06-07:00</updated><id>http://localhost:4000/</id><title type="html">Little by Little</title><subtitle>Bruce Lin's Computer Science Learning Notes</subtitle><author><name>Bruce Lin</name></author><entry><title type="html">Zen of Python</title><link href="http://localhost:4000/2018/08/29/Zen-of-Python.html" rel="alternate" type="text/html" title="Zen of Python" /><published>2018-08-29T19:38:13-07:00</published><updated>2018-08-29T19:38:13-07:00</updated><id>http://localhost:4000/2018/08/29/Zen-of-Python</id><content type="html" xml:base="http://localhost:4000/2018/08/29/Zen-of-Python.html">&lt;p&gt;As Machine Learning is gettting more popular these years, python becomes the &quot;hot&quot; language that many people wants to master at. This semester I finally start the class that I've been thinking to take - &lt;/p&gt; 
+&lt;blockquote class=&quot;blockquote&quot;&gt;Intro to Artificial Intelligence.&lt;/blockquote&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;Not to mention, knowing Python is the requirement. Before I share the basics of Python language, the first thing I learned about Python was pretty interesting - Zen of Python&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;p&gt;Zen of Python is written by Tim Peters in 1999. It is a collection of 20 software priciples that deeply influence the design of the Python language. However, only 19 of them were written down. The fun thing about it was that it was a &quot;easter egg&quot; command line in the Python interpreter.&lt;/p&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;You can open your Python terminal and simply type:&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;this&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;p&gt;You should be able to see:&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+Beautiful is better than ugly.&lt;/br&gt;
+Explicit is better than implicit.&lt;/br&gt;
+Simple is better than complex.&lt;/br&gt;
+Complex is better than complicated.&lt;/br&gt;
+Flat is better than nested.&lt;/br&gt;
+Sparse is better than dense.&lt;/br&gt;
+Readability counts.&lt;/br&gt;
+Special cases aren't special enough to break the rules.&lt;/br&gt;
+Although practicality beats purity.&lt;/br&gt;
+Errors should never pass silently.&lt;/br&gt;
+Unless explicitly silenced.&lt;/br&gt;
+In the face of ambiguity, refuse the temptation to guess.&lt;/br&gt;
+There should be one-- and preferably only one --obvious way to do it.&lt;/br&gt;
+Although that way may not be obvious at first unless you're Dutch.&lt;/br&gt;
+Now is better than never.&lt;/br&gt;
+Although never is often better than *right* now.&lt;/br&gt;
+If the implementation is hard to explain, it's a bad idea.&lt;/br&gt;
+If the implementation is easy to explain, it may be a good idea.&lt;/br&gt;
+Namespaces are one honking great idea -- let's do more of those!&lt;/br&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Bruce Lin</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry><entry><title type="html">I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.</title><link href="http://localhost:4000/2017/10/30/heartbeats.html" rel="alternate" type="text/html" title="I believe every human has a finite number of heartbeats. I don't intend to waste any of mine." /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/2017/10/30/heartbeats</id><content type="html" xml:base="http://localhost:4000/2017/10/30/heartbeats.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+&lt;p&gt;Full of wisdom. It applies to our life too.&lt;/p&gt;</content><author><name>Bruce Lin</name></author><summary type="html">As Machine Learning is gettting more popular these years, python becomes the &quot;hot&quot; language that many people wants to master at. This semester I finally start the class that I've been thinking to take - Intro to Artificial Intelligence.</summary></entry><entry><title type="html">I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.</title><link href="http://localhost:4000/2017/10/30/heartbeats.html" rel="alternate" type="text/html" title="I believe every human has a finite number of heartbeats. I don't intend to waste any of mine." /><published>2017-10-30T20:45:13-07:00</published><updated>2017-10-30T20:45:13-07:00</updated><id>http://localhost:4000/2017/10/30/heartbeats</id><content type="html" xml:base="http://localhost:4000/2017/10/30/heartbeats.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
 
 &lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
 
